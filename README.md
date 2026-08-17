@@ -127,6 +127,25 @@ graph TB
 
 ---
 
+## Screenshots & Architecture Overview
+
+### Dashboard & Metrics
+| Dashboard | Load Overview | Prometheus |
+| :---: | :---: | :---: |
+| ![Dashboard](images/dashboard.png) | ![Load Overview](images/load_overview.png) | ![Prometheus](images/prometheus.png) |
+
+### Pod Management & Operations
+| Pods Overview | Pod Terminal | Pod Live Logs | Pod Log Export |
+| :---: | :---: | :---: | :---: |
+| ![Pods](images/pods.png) | ![Pod Terminal](images/pod_terminal.png) | ![Pod Live Logs](images/pod_live_logs.png) | ![Pod Log Export](images/pod_log_export.png) |
+
+### Security, GitOps & Console
+| Security Scorecard | Audit Trails | Argo GitOps | Web Console |
+| :---: | :---: | :---: | :---: |
+| ![Security Scorecard](images/security_scorecard.png) | ![Audit Trails](images/audit_trails.png) | ![Argo GitOps](images/argo_gitops.png) | ![Web Console](images/web_console.png) |
+
+---
+
 ## 📄 License & Credits
 
 Built with ❤️ by **Aditya Raj** for the **AETHER Enterprise Kubernetes Platform**.
