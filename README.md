@@ -127,22 +127,35 @@ graph TB
 
 ---
 
-## Screenshots & Architecture Overview
+<details>
+  <summary><b>Click to expand Screenshots</b></summary>
 
-### Dashboard & Metrics
-| Dashboard | Load Overview | Prometheus |
-| :---: | :---: | :---: |
-| ![Dashboard](images/dashboard.png) | ![Load Overview](images/load_overview.png) | ![Prometheus](images/prometheus.png) |
+  <br>
 
-### Pod Management & Operations
-| Pods Overview | Pod Terminal | Pod Live Logs | Pod Log Export |
-| :---: | :---: | :---: | :---: |
-| ![Pods](images/pods.png) | ![Pod Terminal](images/pod_terminal.png) | ![Pod Live Logs](images/pod_live_logs.png) | ![Pod Log Export](images/pod_log_export.png) |
-
-### Security, GitOps & Console
-| Security Scorecard | Audit Trails | Argo GitOps | Web Console |
-| :---: | :---: | :---: | :---: |
-| ![Security Scorecard](images/security_scorecard.png) | ![Audit Trails](images/audit_trails.png) | ![Argo GitOps](images/argo_gitops.png) | ![Web Console](images/web_console.png) |
+  <p align="center">
+    <img src="images/dashboard.png" alt="Dashboard" width="85%">
+    <br><br>
+    <img src="images/load_overview.png" alt="Load Overview" width="85%">
+    <br><br>
+    <img src="images/prometheus.png" alt="Prometheus" width="85%">
+    <br><br>
+    <img src="images/pods.png" alt="Pods" width="85%">
+    <br><br>
+    <img src="images/pod_terminal.png" alt="Pod Terminal" width="85%">
+    <br><br>
+    <img src="images/pod_live_logs.png" alt="Pod Live Logs" width="85%">
+    <br><br>
+    <img src="images/pod_log_export.png" alt="Pod Log Export" width="85%">
+    <br><br>
+    <img src="images/security_scorecard.png" alt="Security Scorecard" width="85%">
+    <br><br>
+    <img src="images/audit_trails.png" alt="Audit Trails" width="85%">
+    <br><br>
+    <img src="images/argo_gitops.png" alt="Argo GitOps" width="85%">
+    <br><br>
+    <img src="images/web_console.png" alt="Web Console" width="85%">
+  </p>
+</details>
 
 ---
 
