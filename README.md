@@ -164,59 +164,6 @@ graph TB
 
 ---
 
-<details>
-  <summary><b>Click to expand Screenshots</b></summary>
-
-  <br>
-
-  <p align="center">
-    <h3>Dashboard</h3>
-    <img src="images/dashboard.png" alt="Dashboard" width="85%">
-    <br><br>
-
-    <h3>Load Overview</h3>
-    <img src="images/load_overview.png" alt="Load Overview" width="85%">
-    <br><br>
-
-    <h3>Prometheus Metrics</h3>
-    <img src="images/prometheus.png" alt="Prometheus" width="85%">
-    <br><br>
-
-    <h3>Pods Overview</h3>
-    <img src="images/pods.png" alt="Pods" width="85%">
-    <br><br>
-
-    <h3>Pod Terminal</h3>
-    <img src="images/pod_terminal.png" alt="Pod Terminal" width="85%">
-    <br><br>
-
-    <h3>Pod Live Logs</h3>
-    <img src="images/pod_live_logs.png" alt="Pod Live Logs" width="85%">
-    <br><br>
-
-    <h3>Pod Log Export</h3>
-    <img src="images/pod_log_export.png" alt="Pod Log Export" width="85%">
-    <br><br>
-
-    <h3>Security Scorecard</h3>
-    <img src="images/security_scorecard.png" alt="Security Scorecard" width="85%">
-    <br><br>
-
-    <h3>Audit Trails</h3>
-    <img src="images/audit_trails.png" alt="Audit Trails" width="85%">
-    <br><br>
-
-    <h3>Argo GitOps</h3>
-    <img src="images/argo_gitops.png" alt="Argo GitOps" width="85%">
-    <br><br>
-
-    <h3>Web Console</h3>
-    <img src="images/web_console.png" alt="Web Console" width="85%">
-  </p>
-</details>
-
----
-
 ## 📄 License & Credits
 
 Built with ❤️ by **Aditya Raj** for the **AETHER Enterprise Kubernetes Platform**.
